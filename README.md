@@ -21,8 +21,8 @@ Out of these all emotion recognitions, I selected Happy, Neutral & Surprise as a
 ```
 * Open EmotionRecognition-master Folder in Android Studio.
 
-#### 2.Method
-### Using Zip File
+### 2.Method
+#### Using Zip File
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6936162661906669568/" target="_blank">Download Zip file</a>
 * Open EmotionRecognition-master Folder in Android Studio.
 
