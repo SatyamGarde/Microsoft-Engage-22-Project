@@ -8,8 +8,8 @@ Out of these all emotion recognitions, I selected Happy, Neutral & Surprise as a
 
 ## Installation/Environment Setup 
 
- #### 1.Method
- ### Clone App
+ #### Clone App
+ 
 
   
   * Make a new folder and open the terminal there.
@@ -19,12 +19,9 @@ Out of these all emotion recognitions, I selected Happy, Neutral & Surprise as a
   https://github.com/SatyamGarde/Microsoft-Engage-22-Project.git
   $ cd EmotionRecognition-master
 ```
-* Open EmotionRecognition-master Folder in Android Studio.
+* Now just Open the EmotionRecognition-master Folder in Android Studio.
 
-### 2.Method
-#### Using Zip File
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6936162661906669568/" target="_blank">Download Zip file</a>
-* Open EmotionRecognition-master Folder in Android Studio.
+
 
 
  
