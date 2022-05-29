@@ -17,8 +17,10 @@ Out of these all emotion recognitions, I selected Happy, Neutral & Surprise as a
   * Write the following command and press enter.
   
   bash
-  https://github.com/SatyamGarde/Microsoft-Engage-22-Project.git
+  ~~~
+  $ git clone https://github.com/SatyamGarde/Microsoft-Engage-22-Project.git
   $ cd EmotionRecognition-master
+  ~~~
 
 * Now just Open the EmotionRecognition-master Folder in Android Studio.
 
