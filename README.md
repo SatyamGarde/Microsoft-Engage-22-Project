@@ -27,11 +27,11 @@ Out of these all emotion recognitions, I selected Happy, Neutral & Surprise as a
 ## 🔗 Links for project:
  Video link :
  
- <a href="https://drive.google.com/drive/folders/1OnFm_Ip1QzhmwDOo3zDeeCvc5GPqWkfp?usp=sharing" target="_blank">~~~**Watch Project Demo Video**~~~</a>
+ <a href="https://drive.google.com/drive/folders/1OnFm_Ip1QzhmwDOo3zDeeCvc5GPqWkfp?usp=sharing" target="_blank">**Watch Project Demo Video**</a>
 
 *Download Android App
 
-<a href="https://drive.google.com/drive/folders/1OnFm_Ip1QzhmwDOo3zDeeCvc5GPqWkfp?usp=sharing" target="_blank">~~~**Download Application**~~~</a>
+<a href="https://drive.google.com/drive/folders/1OnFm_Ip1QzhmwDOo3zDeeCvc5GPqWkfp?usp=sharing" target="_blank">**Download Application**</a>
 
 
 ## 🌐 Flow Chart
