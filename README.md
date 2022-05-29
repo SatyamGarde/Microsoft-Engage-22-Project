@@ -50,7 +50,7 @@ Out of these all emotion recognitions, I selected Happy, Neutral & Surprise as a
  Opening Page |  Main Page
 ------------ | ---------------------
  
- <img  width=20% height=30% src="Screenshots/WhatsApp Image 2022-05-29 at 4.43.39 PM.jpeg" alt="download"></img> |<img  width=20% height=30% src="Screenshots/WhatsApp Image 2022-05-29 at 4.43.39 PM.jpeg" alt="download"></img>
+ <img  width=20% height=30% src="Screenshots/WhatsApp Image 2022-05-29 at 4.43.39 PM.jpeg" alt="download"></img> |<img  width=20% height=30% src="Screenshots/WhatsApp Image 2022-05-29 at 4.43.38 PM.jpeg" alt="download"></img>
  
 
 
