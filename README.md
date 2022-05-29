@@ -39,7 +39,8 @@ Out of these all emotion recognitions, I selected Happy, Neutral & Surprise as a
 
 
 ## 🌐 Flow Chart
-<img width=70% src="https://user-images.githubusercontent.com/56452820/125286530-86d9e500-e339-11eb-92d0-64fa09951138.png" >
+<img  width=70% src="R-img/flowchart.jpeg" alt="download">
+ </img>
 
 
 
